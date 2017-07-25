@@ -10,7 +10,7 @@ DEEP LEARNING
     - ¿Qué es y cómo funciona “Deep Learning”?: [rubenlopezg.wordpress.com][1]
 * Tutorials:
     - Dan Van Boxel: [youtube.com][2]
-    - Cursos: [xataka.com]
+    - Cursos: [xataka.com][3]
     
     
     
