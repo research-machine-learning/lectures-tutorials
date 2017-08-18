@@ -9,6 +9,7 @@ DEEP LEARNING
 * Concepts:
     - ¿Qué es y cómo funciona “Deep Learning”?: [rubenlopezg.wordpress.com][1]
 * Tutorials:
+    - Learning Path: [www.analyticsvidhya][5]
     - Dan Van Boxel: [youtube.com][2]
     - Cursos: [xataka.com][3]
 * Examples:
@@ -19,3 +20,4 @@ DEEP LEARNING
 [2]: https://www.youtube.com/user/dvbuntu "Dan Van Boxel"
 [3]: https://www.xataka.com/realidad-virtual-aumentada/cursos-online-de-profesiones-del-futuro-para-hacer-por-internet-en-verano
 [4]: https://github.com/BuzzFeedNews/2017-08-spy-plane-finder
+[5]: https://www.analyticsvidhya.com/learning-path-learn-machine-learning/
